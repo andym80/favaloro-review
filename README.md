@@ -12,7 +12,7 @@ Git
 
 ## Live Demo
 
-Set on  any mobiledimension
+Set on  any mobile dimension
 How to :
 
 [Live Demo Link]\*\*(https://www.loom.com/share/291a4218666c49698125ead269744853)
