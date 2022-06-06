@@ -12,8 +12,7 @@ Git
 
 ## Live Demo
 
-Set on 320px responsive dimension
-
+Set on  any mobiledimension
 How to :
 
 [Live Demo Link]\*\*(https://www.loom.com/share/291a4218666c49698125ead269744853)
@@ -30,13 +29,12 @@ DOWNLOAD ZIP icon too.
 
 ### Prerequisites
 
-Set in your broswer view and inspect with a width of 320px
-
+Set in your broswer view and inspect with a width from any mobile dimension.
 ### about this project
 
 This project was based on FREECODECAMP practice , parsed and rewrited on Visual Studio Code editor.
 
-And constructed in a responsive dimension.
+And realized in a responsive dimension.
 
 ## Authors
 
